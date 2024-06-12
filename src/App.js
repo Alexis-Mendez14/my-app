@@ -1,7 +1,7 @@
 import React from 'react';
 import TablaProductos from './components/TablaProductos';
 import { PRODUCTOS } from './Producto';
-import './App.css'; // Importa el archivo CSS
+import './App.css'; 
 
 const App = () => {
   return (
